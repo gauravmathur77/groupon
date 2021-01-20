@@ -1,0 +1,27 @@
+<ng-container *ngIf="book">
+    <div class="book-detail">
+        <div class="container">
+            <p>
+                <span class="title"><strong>Title: </strong></span>
+                <span>{{book.volumeInfo.title}}</span>
+                
+            </p>
+            <p>
+                <span class="title"><strong>Description: </strong></span>
+                <span>{{book.volumeInfo.description}}</span>
+            </p>
+            <p>
+                <span class="title"><strong>Publisher: </strong></span>
+                <span>{{book.volumeInfo.publisher}}</span>
+            </p>
+            <p>
+                
+                <span class="title"><strong>Published Date:  </strong></span>
+                <span>{{book.volumeInfo.publishedDate}}</span>
+            </p>
+        </div>
+
+    </div>    
+</ng-container>
+
+<a [routerLink]="'/books'">Back</a>

@@ -1,0 +1,53 @@
+<a [routerLink]="'/books/add'">Add</a>
+
+<div>
+    <form [formGroup]="searchForm" action="#" method="post" id="login">
+        <div class="form-group">
+            <input type="text" class="text" placeholder="Title" formControlName="name"
+                (input)="filter($event)">
+        </div>
+    </form>
+</div>
+<table class="books-list">
+    <tr>
+        <th>
+            Title
+        </th>
+        <th>
+            Publisher
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            Published Date
+        </th>
+        <th>
+           Actions
+        </th>
+    </tr>
+    <tr *ngFor="let book of bookList">
+        <td width="20%">
+            {{book.volumeInfo.title}}
+        </td>
+
+        <td width="10%">
+            {{(book.volumeInfo.publisher) ? book.volumeInfo.publisher : 'N/A'}}
+        </td>
+
+
+        <td width="20%">
+            {{(book.volumeInfo.description) ? book.volumeInfo.description : 'N/A'}}
+        </td>
+
+        <td width="20%">
+            {{(book.volumeInfo.publishedDate) ? book.volumeInfo.publishedDate : 'N/A'}}
+        </td>
+
+        <td width="5%">
+           <a (click)="viewBook(book.id)"> View</a> 
+           <a (click)="editBook(book.id)"> Edit</a> 
+        </td>
+
+    </tr>
+</table>

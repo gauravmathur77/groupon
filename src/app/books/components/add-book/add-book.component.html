@@ -1,0 +1,48 @@
+<div class="book-form">
+    <form [formGroup]="addBookForm" (ngSubmit)="submit(addBookForm.value, addBookForm.valid)" action="#" method="post"
+        id="login">
+        <div class="container">
+            <div class="form-group">
+                <label>Title</label>
+                <input class="text" placeholder="Name" formControlName="title">
+                <span *ngIf="addBookForm.controls.title.touched || formSubmit">
+                    <span class="error" *ngIf="addBookForm.controls.title.hasError('required')">Title is Required</span>
+                </span>
+            </div>
+
+            <div class="form-group">
+                <label>Publisher</label>
+                <input class="text" placeholder="Publisher" formControlName="publisher">
+                <span *ngIf="addBookForm.controls.publisher.touched || formSubmit">
+                    <span class="error" *ngIf="addBookForm.controls.publisher.hasError('required')">Publisher is
+                        Required</span>
+                </span>
+            </div>
+
+            <div class="form-group">
+                <label>Description</label>
+                <textarea type="textarea" class="text" placeholder="Description"
+                    formControlName="description"></textarea>
+                <span *ngIf="addBookForm.controls.description.touched || formSubmit">
+                    <span class="error" *ngIf="addBookForm.controls.description.hasError('required')">Description is
+                        Required</span>
+                </span>
+            </div>
+
+            <div class="form-group">
+                <label>Year</label>
+                <input class="text" placeholder="Year" formControlName="publishedDate">
+                <span *ngIf="addBookForm.controls.publishedDate.touched || formSubmit">
+                    <span class="error" *ngIf="addBookForm.controls.publishedDate.hasError('required')">Published Date
+                        is
+                        Required</span>
+                    <span class="error" *ngIf="addBookForm.controls.publishedDate.hasError('pattern')">Format is
+                        wrong</span>
+                </span>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+    </form>
+</div>
+
+<a [routerLink]="'/books'">Back</a>

@@ -1,0 +1,25 @@
+
+  .book-form {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+
+  form {border: 3px solid #f1f1f1;}
+
+  
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+
+
+.error {
+  color: red;
+}

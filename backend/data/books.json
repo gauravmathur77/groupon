@@ -1,0 +1,661 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 10,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "i1lrYuczMUMC",
+      "etag": "kR+l6ZEuIQQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i1lrYuczMUMC",
+      "volumeInfo": {
+        "title": "ISBN - International Standard Book Number",
+        "subtitle": "bibliography ; literature on the ISBN and ISMN (International Standard Music Number) from all over the world",
+        "authors": [
+          " Walravens, Hartmut"
+        ],
+        "publisher": "Simon Bibliothekswissen",
+        "publishedDate": "2010",
+        "description": "Innovative ideas are never easily accepted. Due to the electronic revolution of the information supply new management tools and infrastructures were required. The as simple as brilliant tool the ISBN which assigns each book with a unique number has contributed vastly to the global book and information market.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783940862211"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3940862215"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "Bibliography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i1lrYuczMUMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i1lrYuczMUMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=i1lrYuczMUMC&pg=PA75&dq=isbn&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=i1lrYuczMUMC&dq=isbn&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/ISBN_International_Standard_Book_Number.html?hl=&id=i1lrYuczMUMC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i1lrYuczMUMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Bibliography, Literature on the \u003cb\u003eISBN\u003c/b\u003e and ISMN (International Standard Music \u003cbr\u003e\nNumber) from All Over the World Walravens, Hartmut. tuaja, të qarkullojnë në tërë \u003cbr\u003e\nbotën Prishtinë: Biblioteke Kombëtare dhe Universitare e Kosovës, 2004. 26 p."
+      }
+    },
+    {
+
+      "kind": "books#volume",
+      "id": "xkwSm52JdaEC",
+      "etag": "yEFFwoKxznI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xkwSm52JdaEC",
+      "volumeInfo": {
+        "title": "Bicycle Your France (Loop Directions) Secret Burgundy (ISBN)",
+        "authors": [
+          "Walter Judson Moore"
+        ],
+        "publishedDate": "2008",
+        "description": "This is a companion guide and just the segment directions, profiles and maps for the 2nd guide of the series, BICYCLE YOUR FRANCE: SECRET BURGUNDY.It is 9\" wide by 6\" high and perfect bound along the top, a more suitable size to take on a ride.Each of the 16 loops has a 1-page map, a profile and tested segment directions.Check on the SECRET BURGUNDY book for the complete book.Ride safe. Enjoy the loops; enjoy the adventure.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780557008322"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0557008328"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xkwSm52JdaEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xkwSm52JdaEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=xkwSm52JdaEC&pg=PP3&dq=isbn&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=xkwSm52JdaEC&dq=isbn&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bicycle_Your_France_Loop_Directions_Secr.html?hl=&id=xkwSm52JdaEC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Bicycle_Your_France_Loop_Directions_Secr-sample-epub.acsm?id=xkwSm52JdaEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Bicycle_Your_France_Loop_Directions_Secr-sample-pdf.acsm?id=xkwSm52JdaEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xkwSm52JdaEC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "PO Box 490, Inverness Florida 34451-0490 USA On demand manufacturing and \u003cbr\u003e\ndistribution is by Lulu.com and their affiliate Industries, its retail and online \u003cbr\u003e\nbookstore customers \u003cb\u003eISBN\u003c/b\u003e 978-1-4357-0132-8 Also by Walter Judson Moore: \u003cbr\u003e\nTHE&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vuKwDwAAQBAJ",
+      "etag": "tlhvEJ3pdj4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vuKwDwAAQBAJ",
+      "volumeInfo": {
+        "title": "ISBN 3-932949-11-0",
+        "authors": [
+          "Anna Auer: Fotografie  im Gespräch"
+        ],
+        "publisher": "Dietmar Klinger Verlag, Passau 2001",
+        "publishedDate": "2001",
+        "description": "Das Buch enthält 18 Interviews mit Persönlichkeiten aus der Geschichte der Fotografie (Künstler, Fotografen und Kunsthistoriker). Die Interviews zeigen die vielfältigen Verknüpfungen zwischen europäischer und amerikanischer Kultur.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 310,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vuKwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vuKwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=vuKwDwAAQBAJ&pg=PA4&dq=isbn&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vuKwDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vuKwDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vuKwDwAAQBAJ&rdid=book-vuKwDwAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vuKwDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Passau und ab PhotoDesign – Dionys Asenkerschbaumer, Kellberg \u003cbr\u003e\nUmschlaggestaltung: Susanne Asenkerschbaumer Druck: Tutte Druckerei, \u003cbr\u003e\nSalzweg Alle Rechte vorbehalten Printed in Germany \u003cb\u003eISBN\u003c/b\u003e 3-932949-11-0 Inhalt \u003cbr\u003e\nVorwort ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BEeoAwAAQBAJ",
+      "etag": "pWJrMWcE3Uo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BEeoAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Ollie & Quentin ISBN",
+        "authors": [
+          "Piers Baker"
+        ],
+        "publisher": "Lulu.com",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781471611452"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1471611450"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BEeoAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BEeoAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=BEeoAwAAQBAJ&pg=PA2&dq=isbn&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=BEeoAwAAQBAJ&dq=isbn&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ollie_Quentin_ISBN.html?hl=&id=BEeoAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BEeoAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eISBN\u003c/b\u003e. 978-1-4716-1145-2. STOP GIGGLING...ONLY ANOTHER 4- INCHES TO \u003cbr\u003e\nGO! QUENTIN! STOP STARING. No part of this publication may be reproduced, \u003cbr\u003e\nstored in a retrieval system or transmitted, in any form or by any means, electronic\u003cbr\u003e\n,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0AfxBQAAQBAJ",
+      "etag": "8SdaOX3Hiak",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0AfxBQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Art of Recruitment ISBN",
+        "authors": [
+          "Paul Taylor"
+        ],
+        "publisher": "Lulu.com",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781291574890"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1291574891"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0AfxBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0AfxBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=0AfxBQAAQBAJ&pg=PP2&dq=isbn&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=0AfxBQAAQBAJ&dq=isbn&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_of_Recruitment_ISBN.html?hl=&id=0AfxBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0AfxBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "All rights reserved. The above information forms this copyright notice: © 2013 by \u003cbr\u003e\nPaul Taylor. All rights reserved. \u003cb\u003eISBN\u003c/b\u003e-13: 978-1-291-57489-0 Published by: Paul \u003cbr\u003e\nTaylor Distributed by: Lulu How it all starts... The work experience kids are here,"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E-rosb-rzeYC",
+      "etag": "+QcqLZnHJNE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E-rosb-rzeYC",
+      "volumeInfo": {
+        "title": "Publications",
+        "publisher": "brad brace",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780969074502"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0969074506"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Photography, Artistic"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=E-rosb-rzeYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=E-rosb-rzeYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=E-rosb-rzeYC&pg=PT126&dq=isbn&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=E-rosb-rzeYC&dq=isbn&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Publications.html?hl=&id=E-rosb-rzeYC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E-rosb-rzeYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Brad Brace. 各ふ \u003cb\u003eISBN\u003c/b\u003e 0-96907^5-0-6."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Vtq4BgAAQBAJ",
+      "etag": "p5rqLYCo/sc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Vtq4BgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Butler Project - ISBN",
+        "authors": [
+          "Sabrina Mason"
+        ],
+        "publisher": "Lulu.com",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781312173705"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "131217370X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Vtq4BgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Vtq4BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Vtq4BgAAQBAJ&pg=PA15&dq=isbn&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=Vtq4BgAAQBAJ&dq=isbn&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Butler_Project_ISBN.html?hl=&id=Vtq4BgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Vtq4BgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3l7_p6EuMYoC",
+      "etag": "6oURce6hnxI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3l7_p6EuMYoC",
+      "volumeInfo": {
+        "title": "ISBN 0-9690745-2-2",
+        "authors": [
+          "Brad Brace"
+        ],
+        "publisher": "brad brace",
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780969074526"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0969074522"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Artists' books"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3l7_p6EuMYoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3l7_p6EuMYoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=3l7_p6EuMYoC&pg=PT81&dq=isbn&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=3l7_p6EuMYoC&dq=isbn&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/ISBN_0_9690745_2_2.html?hl=&id=3l7_p6EuMYoC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3l7_p6EuMYoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rC_nJWH0hwQC",
+      "etag": "lltcQNSW1Js",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rC_nJWH0hwQC",
+      "volumeInfo": {
+        "title": "ISBN 0-9690745-1-4",
+        "authors": [
+          "Brad Brace"
+        ],
+        "publisher": "brad brace",
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780969074519"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0969074514"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 270,
+        "printType": "BOOK",
+        "categories": [
+          "Artists' books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rC_nJWH0hwQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rC_nJWH0hwQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=rC_nJWH0hwQC&pg=PT73&dq=isbn&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=rC_nJWH0hwQC&dq=isbn&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/ISBN_0_9690745_1_4.html?hl=&id=rC_nJWH0hwQC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rC_nJWH0hwQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yjx_AgAAQBAJ",
+      "etag": "Nfq3Aps92jo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yjx_AgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Circle As Before [isbn]",
+        "authors": [
+          "Giselle Serate"
+        ],
+        "publisher": "Lulu.com",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781458334282"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1458334287"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yjx_AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yjx_AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=yjx_AgAAQBAJ&pg=PA124&dq=isbn&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=yjx_AgAAQBAJ&dq=isbn&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Circle_As_Before_isbn.html?hl=&id=yjx_AgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yjx_AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
