@@ -1,5 +1,20 @@
 # Groupon
 
+Steps to run->
+First Run the backend 
+
+1) Go to backend folder
+2) Run npm install
+3) Run npm start
+4) API will run on http://localhost:3001/books
+
+
+Second Run the frontend
+
+1) Run npm install
+2) Run npm start
+3) Run http://localhost:4200/books on browser
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
 
 ## Development server
